@@ -1,0 +1,21 @@
+body    {
+    background-image: url("../imgs/ricepaper2.png");
+    background-image: 960px;
+    width:960px;
+    padding:50px;
+    border:20px;
+    margin:20px;
+    color: rgb(31, 110, 141);
+    font-size: 18px;
+    line-height: 27px;
+}   
+
+.carousel-caption
+{
+    color: yellow;
+    font: arial;
+}  
+
+.alert
+{text-align: center;
+} 

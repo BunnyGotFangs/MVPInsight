@@ -1,5 +1,5 @@
 body    {
-    background-image: url("../imgs/ricepaper2.png");
+    background-color: white;
     background-image: 960px;
     width:960px;
     padding:50px;
@@ -10,11 +10,7 @@ body    {
     line-height: 27px;
 }   
 
-.carousel-caption
-{
-    color: yellow;
-    font: arial;
-}  
+ 
 
 .alert
 {text-align: center;
